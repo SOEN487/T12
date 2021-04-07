@@ -71,6 +71,7 @@
         <%}else{ %>
         <a class="btn btn-primary" href="register">Register</a>
         <a class="btn btn-primary" href="login">Login</a>
+        <p>Hello!</p>
         <%} %>
     </div>
 
